@@ -1,0 +1,19 @@
+﻿  PhysicalEngineTester.cpp
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(339,29): warning C4312: "typ rzutowania": konwersja z "uint32_t" na "void *" jest większej wielkości
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(343,28): warning C4312: "typ rzutowania": konwersja z "uint32_t" na "void *" jest większej wielkości
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(354,27): warning C4267: "inicjowanie": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(355,28): warning C4267: "inicjowanie": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(366,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(373,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(380,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(387,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(395,27): warning C4267: "inicjowanie": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(396,28): warning C4267: "inicjowanie": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(402,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(409,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(450,17): warning C4267: "inicjowanie": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(451,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(463,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(469,14): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicsEngine\PhysicsEngine\engine.h(479,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  PhysicalEngineTester.vcxproj -> E:\STUDIA\SEMESTR 5\Projekt grupowy\PhysicalEngineTester\x64\Debug\PhysicalEngineTester.exe
